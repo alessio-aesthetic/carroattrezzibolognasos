@@ -1,8 +1,8 @@
 {
   "city": "Bologna",
   "domain": "carroattrezzibolognasos.it",
-  "brand": "BOLOGNA / OFFICINA STRADA",
-  "phone": null,
+  "brand": "Bologna Officina Strada",
+  "phone": "051 091 3172",
   "address": null,
   "email": "assistenza@carroattrezzibolognasos.it",
   "nearby": [
@@ -14,5 +14,12 @@
     "Calderara di Reno"
   ],
   "contactStatus": "awaiting_verified_phone_and_address",
-  "theme": "workshop"
+  "theme": "workshop",
+  "brandIdentity": {
+    "version": 2,
+    "concept": "Insegna smaltata da officina, telaio rettangolare, doppio livello e tagli da stencil.",
+    "primary": "/assets/brand/logo-primary.svg",
+    "reverse": "/assets/brand/logo-reverse.svg",
+    "symbol": "/assets/brand/symbol.svg"
+  }
 }
