@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://carroattrezzibolognasos.it/sitemap.xml

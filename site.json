@@ -1,0 +1,18 @@
+{
+  "city": "Bologna",
+  "domain": "carroattrezzibolognasos.it",
+  "brand": "BOLOGNA / OFFICINA STRADA",
+  "phone": null,
+  "address": null,
+  "email": "assistenza@carroattrezzibolognasos.it",
+  "nearby": [
+    "Casalecchio di Reno",
+    "San Lazzaro di Savena",
+    "Castel Maggiore",
+    "Zola Predosa",
+    "Granarolo dell’Emilia",
+    "Calderara di Reno"
+  ],
+  "contactStatus": "awaiting_verified_phone_and_address",
+  "theme": "workshop"
+}
